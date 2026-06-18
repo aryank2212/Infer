@@ -1,0 +1,14 @@
+MEMBER: "Aryan"
+ACTIVITY: "18-19 JUNE"
+
+LOG:- 
+
+DATE & TIME: "18-19 June 4:30-5:00 AM"
+DESCRIBE WHAT YOU DID AND HOW: "Created a an AI Agentic framework, (Decision Engine, Goal Analyzer, Planner, Task Allocator, Worker Agents), basically what it does is It breaks the big goal down into a step-by-step to-do list.
+It assigns each step to a specialized AI "worker" (like a coding AI, a research AI, or a testing AI).
+specfications - I used Lfm2.5 1.2b model cause I wanted faster inputs and outputs,  "
+USED AI: "YES(not much)"
+
+DATE & TIME: "{DATE & TIME}"
+DESCRIBE WHAT YOU DID AND HOW: 
+USED AI: "{YES OR NO}"
