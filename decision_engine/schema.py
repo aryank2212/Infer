@@ -1,0 +1,24 @@
+REQUEST_TYPES = [
+    "NEW_OBJECTIVE",
+    "STATUS_QUERY",
+    "DIRECT_COMMAND",
+    "OBJECTIVE_UPDATE",
+    "CONVERSATION",
+    "CLARIFICATION"
+]
+
+OBJECTIVE_TYPES = [
+    "RESEARCH",
+    "CODING",
+    "MONITORING",
+    "AUTOMATION",
+    "ANALYSIS",
+    "SYSTEM",
+    "GENERAL"
+]
+
+COMPLEXITY_TYPES = [
+    "LOW",
+    "MEDIUM",
+    "HIGH"
+]

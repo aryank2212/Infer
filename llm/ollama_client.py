@@ -1,22 +1,14 @@
 import requests
 
-from llm.base import BaseLLM
 
+class OllamaClient:
 
-class OllamaProvider(BaseLLM):
-
-    def __init__(
-        self,
-        model="qwen3:14b"
-    ):
-        self.model = model
-
-    def generate(self, prompt: str):
+    def generate(self, prompt):
 
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
-                "model": self.model,
+                "model": "lfm2.5",
                 "prompt": prompt,
                 "stream": False
             }

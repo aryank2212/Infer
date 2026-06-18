@@ -1,0 +1,54 @@
+{
+    "research_agent": {
+        "capabilities": [
+            "research",
+            "summarization",
+            "information_gathering"
+        ],
+        "model": "lfm2.5"
+    },
+    "coding_agent": {
+        "capabilities": [
+            "coding",
+            "debugging",
+            "refactoring"
+        ],
+        "model": "lfm2.5"
+    },
+    "verification_agent": {
+        "capabilities": [
+            "testing",
+            "validation",
+            "quality_assurance"
+        ],
+        "model": "lfm2.5"
+    },
+    "planning_agent": {
+        "capabilities": [
+            "planning",
+            "decomposition"
+        ],
+        "model": "lfm2.5"
+    },
+    "memory_agent": {
+        "capabilities": [
+            "memory_storage",
+            "memory_retrieval"
+        ],
+        "model": "lfm2.5"
+    },
+    "monitoring_agent": {
+        "capabilities": [
+            "monitoring",
+            "observation"
+        ],
+        "model": "lfm2.5"
+    },
+    "system_agent": {
+        "capabilities": [
+            "deployment",
+            "operations"
+        ],
+        "model": "lfm2.5"
+    }
+}
