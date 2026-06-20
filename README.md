@@ -1,5 +1,4 @@
-# Infer (Rose)
-
+# Infer : An AI agent framework that transforms complex objectives into executable plans using specialized agents.
 Infer is a Python-based AI agent framework designed to break down complex objectives into actionable plans and execute them using specialized agents.
 
 ## Architecture
