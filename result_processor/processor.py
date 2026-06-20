@@ -3,7 +3,10 @@ import re
 
 class ResultProcessor:
 
-    def clean(self, text):
+    def clean(
+        self,
+        text
+    ):
 
         text = re.sub(
             r"<think>.*?</think>",

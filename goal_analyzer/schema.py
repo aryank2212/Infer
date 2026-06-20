@@ -10,4 +10,4 @@ class ObjectiveSpecification(BaseModel):
 
     required_agents: list[str]
 
-    success_criteria: list[str]
+    success_criteria: list[str] 
